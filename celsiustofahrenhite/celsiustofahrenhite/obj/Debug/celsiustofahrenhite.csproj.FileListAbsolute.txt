@@ -1,0 +1,10 @@
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\bin\Debug\celsiustofahrenhite.exe.config
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\bin\Debug\celsiustofahrenhite.exe
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\bin\Debug\celsiustofahrenhite.pdb
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\obj\Debug\celsiustofahrenhite.csprojAssemblyReference.cache
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\obj\Debug\celsiustofahrenhite.Form1.resources
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\obj\Debug\celsiustofahrenhite.Properties.Resources.resources
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\obj\Debug\celsiustofahrenhite.csproj.GenerateResource.cache
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\obj\Debug\celsiustofahrenhite.csproj.CoreCompileInputs.cache
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\obj\Debug\celsiustofahrenhite.exe
+C:\Users\MMFH\source\repos\celsiustofahrenhite\celsiustofahrenhite\obj\Debug\celsiustofahrenhite.pdb
